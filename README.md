@@ -12,17 +12,16 @@
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
+    - jetson nano
+    - 담배꽁초 인식 모델
     
 ## Case Study
   - ### Description
   
   
 ## Conclusion
-  - ### OOO
-  - ### OOO
-  
-## Project Outcome
-- ### 20XX 년 OO학술대회 
+  - ### 사회적 영향
+    - 도시 미관 개선
+    - 환경 오염 감소
+   
 
